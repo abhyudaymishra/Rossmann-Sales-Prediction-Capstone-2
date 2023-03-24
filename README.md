@@ -20,8 +20,6 @@ Abhyuday-Rossmann-Sales-Prediction - Google Collab notebook containing data summ
 
 Summary.pdf- Includes the Summary about the project.
 
-Data & Resources.zip - Includes sales data and store data for various Rossmann stores.
-
 -----------------------------------------------------
 **📈 Exploratory Data Analysis**
 
@@ -40,7 +38,7 @@ ___________________________________________________________
 
 Random Forest Tuned Model gave the best results and the patterns that could be captured by the model without overfitting was captured achieving a R^2 of 0.45 which helps in allocation of resources and proper planning for the company's growth.
 
-![download (3)](https://user-images.githubusercontent.com/122104510/227508799-409716be-9cac-4675-8227-e915db78ec0c.png)
+
 
 **📜 Credits**
 
