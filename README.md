@@ -1,5 +1,5 @@
 
-# Rossmann-Sales-Prediction-Capstone-2
+
 
 # Rossmann-Sales-Prediction-Capstone-2
 
@@ -16,9 +16,9 @@ This project contains one executable file, a technical Summary document.
 
 **Executable Files:**
 
-Abhyuday-Rossmann-Sales-PREDICTION - Google Collab notebook containing data summary, exploration, visualisations and modeling,containg model hyperparameter tuning, model performance, evaluation and conclusion.
+Abhyuday-Rossmann-Sales-Prediction - Google Collab notebook containing data summary, exploration, visualisations and modeling,containg model hyperparameter tuning, model performance, evaluation and conclusion.
 
-Summary Document.pdf- Includes the Summary about the project.
+Summary.pdf- Includes the Summary about the project.
 
 Data & Resources.zip - Includes sales data and store data for various Rossmann stores.
 
